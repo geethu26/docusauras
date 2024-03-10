@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'GJ',
+  tagline: 'Supercalifragilisticexpialedocious',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://geethu26.github.com',
+  url: 'https://geethu26.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/docusaurus/',
