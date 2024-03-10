@@ -30,5 +30,5 @@ export default function MyReactPage() {
       >Map link</a
     >
     </Layout>
-  );
+  )
 }
